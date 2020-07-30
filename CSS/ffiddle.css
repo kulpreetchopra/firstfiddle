@@ -1,0 +1,47 @@
+.mob-logo{
+  display: none;
+}
+
+@media (max-width: 724px){
+
+  .mob-logo {
+    display: block!important;
+    width: 200px!important;
+  }
+  .bg{
+    background:#fbaa1a!important;
+  }
+}
+@media (max-width: 724px){
+
+  .web-logo{
+   display: none;
+   }
+
+}
+    .a{
+    background-color: #0000009c;
+    font-family: cursive;
+}
+li:hover{
+      background:#fbaa1a;
+}
+    .carousel-caption{
+    color: #fff;
+    position: absolute;
+    top: 37%;
+    /*left: 82px;*/
+    }
+    .b{
+    font-size: 70px;
+    border-bottom-style: ridge;
+    border-bottom-color: #e3ac2f80;
+    font-family: cursive;
+    }
+    .navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.97)!important;
+    }
+    .c{
+       font-family: cursive;
+    }
+    
